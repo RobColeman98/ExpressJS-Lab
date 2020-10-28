@@ -1,0 +1,9 @@
+body {
+    background-color: lightslategrey;
+    color: snow;
+}
+
+.form-control {
+    background-color: plum;
+    color: white;
+}
